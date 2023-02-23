@@ -131,6 +131,8 @@ A commercial license may also be available for use in industrial projects, colla
 ## Acknowledgements
 This research has been supported by DARGMINTS (POCI/01/0145/FEDER/031460), LIACC (FCT/UID/CEC/0027/2020) and CLUP (UIDB/00022/2020), funded by Fundação para a Ciência e a Tecnologia (FCT).
 
+The base code is inspired by [this implementation of Chris McCormick and Nick Ryan](https://colab.research.google.com/drive/1pTuQhug6Dhl9XalKB0zUGf4FIdYFlpcX).
+
 ## Contact Persons
 * Gil Rocha, gil.rocha@fe.up.pt
 * Bernardo Leite, bernardo.leite@fe.up.pt
