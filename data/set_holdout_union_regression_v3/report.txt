@@ -1,0 +1,7 @@
+
+- Number of train examples: 3300
+Avg. Argumentative Density (Train): 0.36684330470812154
+- Number of validation examples: 440
+Avg. Argumentative Density (Val): 0.35348802186066947
+- Number of test examples: 404
+Avg. Argumentative Density (Test): 0.37089177496053805
